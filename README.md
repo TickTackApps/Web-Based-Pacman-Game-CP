@@ -5,4 +5,4 @@
 [CLICK HERE TO WATCH PACMAN CODING VIDEO](https://youtu.be/GXlckaGr0Eo?si=PN-vuPXWQZiWzkL5)
 [CLICK HERE TO PLAY PACMAN](https://htmlpreview.github.io/?https://github.com/TickTackApps/Web-Based-Pacman-Game-CP/blob/main/index.html)
 
-#Thanks for visiting
+# Thanks for visiting
